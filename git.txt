@@ -1,1 +1,1 @@
-Comprobando como se comporta Gitç
+Comprobando como se comporta Git al comparar
