@@ -1,1 +1,2 @@
-Comprobando como se comporta Git al comparar
+Comprobando como se comporta git al coomparar
+Voy a crear una nueva linea y a parte quitar añadir 1 letra arriba
