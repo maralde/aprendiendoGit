@@ -1,3 +1,8 @@
 Comprobando como se comporta git al coomparar
 Voy a crear una nueva linea y a parte quitar añadir 1 letra arriba
 uwu
+
+git log para ver los commits 
+git diff eligiendo 2 commits para diferenciar
+git show para mostrar el penultimo y ultimo commit
+reset para volver al pasado
